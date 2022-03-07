@@ -20,5 +20,5 @@ fi
 
 echo
 echo "All tests passed."
-output="$expected_output"
+
 exit 0
